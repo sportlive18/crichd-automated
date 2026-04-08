@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Secure Player</title>
+
+<style>
+body{
+  margin:0;
+  background:#000;
+}
+
+.player-wrapper{
+  position:relative;
+  width:100%;
+  height:100vh;
+  overflow:hidden;
+}
+
+/* Invisible click shield (anti popup trick) */
+.click-shield{
+  position:absolute;
+  inset:0;
+  z-index:5;
+  background:transparent;
+}
+</style>
+</head>
+<body>
+
+<div class="player-wrapper">
+
+  <iframe
+    id="videoFrame"
+    src="https://crichdmini.wasmer.app/player.php?channel=willowusa"
+    sandbox="allow-scripts allow-same-origin allow-forms"
+    allowfullscreen
+    referrerpolicy="no-referrer"
+    style="width:100%;height:100%;border:none;">
+  </iframe>
+
+  <div class="click-shield" id="shield"></div>
+
+</div>
+
+<script>
+
+// 🔥 1. Block popup
+window.open = function(){
+  console.log("Popup blocked");
+  return null;
+};
+
+// 🔥 2. Block top redirect
+try {
+  Object.defineProperty(window, "location", {
+    writable: false
+  });
+} catch(e){}
+
+// 🔥 3. Remove shield after user interacts once
+// (Many ad sites need first click to trigger popup)
+document.getElementById("shield").addEventListener("click", function(){
+  this.style.display = "none";
+});
+
+// 🔥 4. Extra safety — detect navigation attempt
+window.addEventListener("beforeunload", function(e){
+  e.preventDefault();
+  e.returnValue = '';
+});
+
+</script>
+
+</body>
+</html>
