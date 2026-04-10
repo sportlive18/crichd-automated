@@ -12,7 +12,7 @@ import pytz
 # --- Configuration ---
 CRICHD_BASE_URL = "https://vf.crichd.tv"
 WEB_URL = "https://vf.crichd.tv/web"
-OUTPUT_M3U_FILE = "siamscrichd.m3u"
+OUTPUT_M3U_FILE = "sayan10.m3u"
 FINAL_REFERRER = "https://executeandship.com/"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
 REQUESTS_TIMEOUT = 15
@@ -156,7 +156,7 @@ if __name__ == "__main__":
         update_time = datetime.datetime.now(dhaka_tz).strftime('%Y-%m-%d %H:%M:%S %Z')
         header = (
             f"#EXTM3U\n"
-            f"#CREDIT: Siam3310\n"
+            f"#CREDIT: Sayan10\n"
             f"#LAST UPDATED: {update_time}\n"
             f"#TOTAL CHANNELS: {total_channels}\n\n"
         )
