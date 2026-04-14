@@ -33,18 +33,9 @@
         ]
     },
     {
-        "title": "Chennai Super Kings vs Kolkata Knight Riders",
-        "competition": "IPL T20",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/chennai-super-kings-vs-kolkata-knight-riders-live-streaming",
-        "channels": [
-            "Sky Sports  Cricket"
-        ]
-    },
-    {
         "title": "ATP / WTA: Barcelona / Munich / Rouen / Stuttgart",
         "competition": "ATP Tour",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/atp-wta-barcelona-munich-rouen-stuttgart-live-streaming",
         "channels": [
             "Sky Sports Main Event"
@@ -53,7 +44,7 @@
     {
         "title": "Barrow vs Oldham Athletic",
         "competition": "English Championship",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/barrow-vs-oldham-athletic-live-streaming",
         "channels": [
             "Sky Sports Main Event"
@@ -62,7 +53,7 @@
     {
         "title": "Bolton Wanderers vs Stevenage",
         "competition": "English Championship",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/bolton-wanderers-vs-stevenage-live-streaming",
         "channels": [
             "Sky Sports Main Event"
@@ -71,7 +62,7 @@
     {
         "title": "Cheltenham Town vs Gillingham",
         "competition": "English Championship",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/cheltenham-town-vs-gillingham-live-streaming",
         "channels": [
             "Sky Sports Main Event"
@@ -80,7 +71,7 @@
     {
         "title": "Chesterfield vs Grimsby Town",
         "competition": "English Championship",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/chesterfield-vs-grimsby-town-live-streaming",
         "channels": [
             "Sky Sports Main Event"
@@ -89,7 +80,7 @@
     {
         "title": "Colchester United vs Accrington Stanley",
         "competition": "English Championship",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/colchester-united-vs-accrington-stanley-live-streaming",
         "channels": [
             "Sky Sports Main Event"
@@ -98,7 +89,7 @@
     {
         "title": "Huddersfield Town vs Cardiff City",
         "competition": "English Championship",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/huddersfield-town-vs-cardiff-city-live-streaming",
         "channels": [
             "Sky Sports Main Event"
