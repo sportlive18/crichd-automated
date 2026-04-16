@@ -23,45 +23,9 @@
         ]
     },
     {
-        "title": "Mumbai Indians vs Punjab Kings",
-        "competition": "IPL T20",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/mumbai-indians-vs-punjab-kings-live-streaming",
-        "channels": [
-            "Sky Sports  Cricket"
-        ]
-    },
-    {
-        "title": "AZ Alkmaar vs Shakhtar Donetsk",
-        "competition": "UEFA Europa Conference League",
-        "status": "Upcoming",
-        "match_url": "https://vf.crichd.tv/az-alkmaar-vs-shakhtar-donetsk-live-streaming",
-        "channels": [
-            "Ch12 ( TNT Sports 7 )"
-        ]
-    },
-    {
-        "title": "Celta Vigo vs SC Freiburg",
-        "competition": "UEFA Europa League",
-        "status": "Upcoming",
-        "match_url": "https://vf.crichd.tv/celta-vigo-vs-sc-freiburg-live-streaming",
-        "channels": [
-            "Ch10 ( TNT Sports 5 )"
-        ]
-    },
-    {
-        "title": "Premier League Darts: Rotterdam",
-        "competition": "English Premier League",
-        "status": "Upcoming",
-        "match_url": "https://vf.crichd.tv/premier-league-darts-rotterdam-live-streaming",
-        "channels": [
-            "Sky Sports  Action"
-        ]
-    },
-    {
         "title": "Bromley vs Cambridge United",
         "competition": "English Championship",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/bromley-vs-cambridge-united-live-streaming",
         "channels": [
             "Sky Sports Football"
@@ -70,7 +34,7 @@
     {
         "title": "Hull FC vs St Helens",
         "competition": "",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/hull-fc-vs-st-helens-live-streaming",
         "channels": [
             "Sky Sports Main Event"
@@ -79,7 +43,7 @@
     {
         "title": "AEK Athens vs Rayo Vallecano",
         "competition": "UEFA Europa Conference League",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/aek-athens-vs-rayo-vallecano-live-streaming",
         "channels": [
             "Ch14 ( TNT Sports 9 )"
@@ -88,7 +52,7 @@
     {
         "title": "Fiorentina vs Crystal Palace",
         "competition": "UEFA Europa Conference League",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/fiorentina-vs-crystal-palace-live-streaming",
         "channels": [
             "TNT Sports 3"
@@ -97,7 +61,7 @@
     {
         "title": "Strasbourg vs Mainz",
         "competition": "UEFA Europa Conference League",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/strasbourg-vs-mainz-live-streaming",
         "channels": [
             "Ch13 ( TNT Sports 8 )"
@@ -106,7 +70,7 @@
     {
         "title": "Aston Villa vs Bologna",
         "competition": "UEFA Europa League",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/aston-villa-vs-bologna-live-streaming",
         "channels": [
             "TNT Sports 2"
@@ -115,7 +79,7 @@
     {
         "title": "Nottingham Forest vs FC Porto",
         "competition": "UEFA Europa League",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/nottingham-forest-vs-fc-porto-live-streaming",
         "channels": [
             "TNT Sports 1"
@@ -124,7 +88,7 @@
     {
         "title": "Real Betis vs SC Braga",
         "competition": "UEFA Europa League",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/real-betis-vs-sc-braga-live-streaming",
         "channels": [
             "Ch11 ( TNT Sports 6 )"
