@@ -4,35 +4,50 @@
         "competition": "PSLT20",
         "status": "Live",
         "match_url": "https://vf.crichd.tv/psl-t20-2026-live-streaming",
-        "channels": []
+        "channels": [
+            "PTV Sports",
+            "Willow Cricket 2",
+            "A Sports HD"
+        ]
     },
     {
         "title": "IPL T20 2026",
         "competition": "IPL T20",
         "status": "Live",
         "match_url": "https://vf.crichd.tv/ipl-t20-2026-live-streaming",
-        "channels": []
+        "channels": [
+            "Sky Sports  Cricket",
+            "Star Sports",
+            "Star Sports 1 Hindi",
+            "Willow Cricket"
+        ]
     },
     {
         "title": "ATP / WTA: Barcelona / Munich / Rouen / Stuttgart",
         "competition": "ATP Tour",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/atp-wta-barcelona-munich-rouen-stuttgart-live-streaming",
-        "channels": []
+        "channels": [
+            "Sky Sports Tennis"
+        ]
     },
     {
         "title": "Mumbai Indians vs Punjab Kings",
         "competition": "IPL T20",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/mumbai-indians-vs-punjab-kings-live-streaming",
-        "channels": []
+        "channels": [
+            "Sky Sports  Cricket"
+        ]
     },
     {
         "title": "AZ Alkmaar vs Shakhtar Donetsk",
         "competition": "UEFA Europa Conference League",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/az-alkmaar-vs-shakhtar-donetsk-live-streaming",
-        "channels": []
+        "channels": [
+            "Ch12 ( TNT Sports 7 )"
+        ]
     },
     {
         "title": "Celta Vigo vs SC Freiburg",
