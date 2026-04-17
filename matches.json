@@ -33,18 +33,9 @@
         ]
     },
     {
-        "title": "Blues vs Highlanders",
-        "competition": "",
-        "status": "Upcoming",
-        "match_url": "https://vf.crichd.tv/blues-vs-highlanders-live-streaming",
-        "channels": [
-            "Sky Sports Main Event"
-        ]
-    },
-    {
         "title": "Canberra Raiders vs Melbourne Storm",
         "competition": "",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/canberra-raiders-vs-melbourne-storm-live-streaming",
         "channels": [
             "Sky Sports  Action"
@@ -53,7 +44,7 @@
     {
         "title": "ATP / WTA: Barcelona / Munich / Rouen / Stuttgart",
         "competition": "ATP Tour",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/atp-wta-barcelona-munich-rouen-stuttgart-live-streaming",
         "channels": [
             "Sky Sports Tennis"
@@ -62,7 +53,7 @@
     {
         "title": "Waratahs vs Moana Pasifika",
         "competition": "",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/waratahs-vs-moana-pasifika-live-streaming",
         "channels": [
             "Sky Sports Main Event"
@@ -262,42 +253,54 @@
         "competition": "IPL T20",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/punjab-kings-vs-lucknow-super-giants-live-streaming",
-        "channels": []
+        "channels": [
+            "Sky Sports  Cricket"
+        ]
     },
     {
         "title": "TBC vs Boston Celtics",
         "competition": "NBA",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/tbc-vs-boston-celtics-live-streaming",
-        "channels": []
+        "channels": [
+            "Sky Sports  Action"
+        ]
     },
     {
         "title": "TBC vs Oklahoma City Thunder",
         "competition": "NBA",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/tbc-vs-oklahoma-city-thunder-live-streaming",
-        "channels": []
+        "channels": [
+            "Sky Sports  Action"
+        ]
     },
     {
         "title": "TBC vs Detroit Pistons",
         "competition": "NBA",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/tbc-vs-detroit-pistons-live-streaming",
-        "channels": []
+        "channels": [
+            "Sky Sports  Action"
+        ]
     },
     {
         "title": "Portland Trail Blazers vs San Antonio Spurs",
         "competition": "NBA",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/portland-trail-blazers-vs-san-antonio-spurs-live-streaming",
-        "channels": []
+        "channels": [
+            "Sky Sports  Action"
+        ]
     },
     {
         "title": "Gujarat Titans vs Mumbai Indians",
         "competition": "IPL T20",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/gujarat-titans-vs-mumbai-indians-live-streaming",
-        "channels": []
+        "channels": [
+            "Sky Sports  Cricket"
+        ]
     },
     {
         "title": "TBC vs TBC",
