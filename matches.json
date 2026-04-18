@@ -23,18 +23,9 @@
         ]
     },
     {
-        "title": "Western Force vs Crusaders",
-        "competition": "",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/western-force-vs-crusaders-live-streaming",
-        "channels": [
-            "Sky Sports  Action"
-        ]
-    },
-    {
         "title": "Sunrisers Hyderabad vs Chennai Super Kings",
         "competition": "IPL T20",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/sunrisers-hyderabad-vs-chennai-super-kings-live-streaming",
         "channels": [
             "Sky Sports  Cricket"
@@ -43,7 +34,7 @@
     {
         "title": "Wakefield Trinity vs Bradford Bulls",
         "competition": "NBA",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/wakefield-trinity-vs-bradford-bulls-live-streaming",
         "channels": [
             "Sky Sports Main Event"
@@ -52,7 +43,7 @@
     {
         "title": "Manchester Thunder vs LexisNexis Dragons",
         "competition": "NBA",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/manchester-thunder-vs-lexisnexis-dragons-live-streaming",
         "channels": [
             "Sky Sports Main Event"
@@ -61,7 +52,7 @@
     {
         "title": "Napoli vs Lazio",
         "competition": "Italian Serie A",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/napoli-vs-lazio-live-streaming",
         "channels": [
             "TNT Sports 1"
