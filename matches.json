@@ -23,63 +23,9 @@
         ]
     },
     {
-        "title": "Kolkata Knight Riders vs Rajasthan Royals",
-        "competition": "IPL T20",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/kolkata-knight-riders-vs-rajasthan-royals-live-streaming",
-        "channels": [
-            "Sky Sports  Cricket"
-        ]
-    },
-    {
-        "title": "ATP / WTA: Barcelona / Munich / Rouen / Stuttgart",
-        "competition": "ATP Tour",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/atp-wta-barcelona-munich-rouen-stuttgart-live-streaming",
-        "channels": [
-            "Sky Sports Tennis"
-        ]
-    },
-    {
-        "title": "Celtic vs St Mirren",
-        "competition": "Scottish Premier League",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/celtic-vs-st-mirren-live-streaming",
-        "channels": [
-            "Viaplay Sports 1"
-        ]
-    },
-    {
-        "title": "Aston Villa vs Sunderland",
-        "competition": "English Premier League",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/aston-villa-vs-sunderland-live-streaming",
-        "channels": [
-            "Sky Sports Premier League"
-        ]
-    },
-    {
-        "title": "Everton vs Liverpool",
-        "competition": "English Premier League",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/everton-vs-liverpool-live-streaming",
-        "channels": [
-            "Sky Sports Main Event"
-        ]
-    },
-    {
-        "title": "Nottingham Forest vs Burnley",
-        "competition": "English Premier League",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/nottingham-forest-vs-burnley-live-streaming",
-        "channels": [
-            "Sky Sports Main Event"
-        ]
-    },
-    {
         "title": "Punjab Kings vs Lucknow Super Giants",
         "competition": "IPL T20",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/punjab-kings-vs-lucknow-super-giants-live-streaming",
         "channels": [
             "Sky Sports  Cricket"
@@ -88,7 +34,7 @@
     {
         "title": "Wigan Warriors vs Castleford Tigers",
         "competition": "NBA",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/wigan-warriors-vs-castleford-tigers-live-streaming",
         "channels": [
             "Sky Sports Main Event"
@@ -306,63 +252,49 @@
         "competition": "English Championship",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/leicester-city-vs-hull-city-live-streaming",
-        "channels": [
-            "Sky Sports Football"
-        ]
+        "channels": []
     },
     {
         "title": "Norwich City vs Derby County",
         "competition": "English Championship",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/norwich-city-vs-derby-county-live-streaming",
-        "channels": [
-            "Sky Sports Main Event"
-        ]
+        "channels": []
     },
     {
         "title": "Oxford United vs Wrexham",
         "competition": "English Championship",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/oxford-united-vs-wrexham-live-streaming",
-        "channels": [
-            "Sky Sports Main Event"
-        ]
+        "channels": []
     },
     {
         "title": "Queens Park Rangers vs Swansea City",
         "competition": "English Championship",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/queens-park-rangers-vs-swansea-city-live-streaming",
-        "channels": [
-            "Sky Sports Main Event"
-        ]
+        "channels": []
     },
     {
         "title": "Rotherham United vs Luton Town",
         "competition": "English Championship",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/rotherham-united-vs-luton-town-live-streaming",
-        "channels": [
-            "Sky Sports Main Event"
-        ]
+        "channels": []
     },
     {
         "title": "Southampton vs Bristol City",
         "competition": "English Championship",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/southampton-vs-bristol-city-live-streaming",
-        "channels": [
-            "Sky Sports Main Event"
-        ]
+        "channels": []
     },
     {
         "title": "Stevenage vs Barnsley",
         "competition": "English Championship",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/stevenage-vs-barnsley-live-streaming",
-        "channels": [
-            "Sky Sports Main Event"
-        ]
+        "channels": []
     },
     {
         "title": "Stockport County vs Mansfield Town",
