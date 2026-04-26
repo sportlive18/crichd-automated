@@ -32,24 +32,6 @@
         ]
     },
     {
-        "title": "Lucknow Super Giants vs Kolkata Knight Riders",
-        "competition": "IPL T20",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/lucknow-super-giants-vs-kolkata-knight-riders-live-streaming",
-        "channels": [
-            "Sky Sports Main Event"
-        ]
-    },
-    {
-        "title": "Hibernian vs Hearts",
-        "competition": "Scottish Premier League",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/hibernian-vs-hearts-live-streaming",
-        "channels": [
-            "Sky Sports Football"
-        ]
-    },
-    {
         "title": "Osasuna vs Sevilla",
         "competition": "Spanish La Liga",
         "status": "Live",
@@ -61,7 +43,7 @@
     {
         "title": "ATP/WTA 1000: Madrid",
         "competition": "ATP Tour",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/atpwta-1000-madrid-live-streaming",
         "channels": [
             "Sky Sports Tennis"
