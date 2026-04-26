@@ -4,104 +4,70 @@
         "competition": "PSLT20",
         "status": "Live",
         "match_url": "https://vf.crichd.tv/psl-t20-2026-live-streaming",
-        "channels": [
-            "PTV Sports",
-            "Willow Cricket 2",
-            "A Sports HD"
-        ]
+        "channels": []
     },
     {
         "title": "IPL T20 2026",
         "competition": "IPL T20",
         "status": "Live",
         "match_url": "https://vf.crichd.tv/ipl-t20-2026-live-streaming",
-        "channels": [
-            "Sky Sports  Cricket",
-            "Star Sports",
-            "Star Sports 1 Hindi",
-            "Willow Cricket"
-        ]
+        "channels": []
     },
     {
         "title": "MotoGP Spanish Grand Prix",
         "competition": "Moto GP",
         "status": "Live",
         "match_url": "https://vf.crichd.tv/motogp-spanish-grand-prix-live-streaming",
-        "channels": [
-            "TNT Sports 2"
-        ]
-    },
-    {
-        "title": "Liverpool Women vs West Ham United Women",
-        "competition": "English Premier League",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/liverpool-women-vs-west-ham-united-women-live-streaming",
-        "channels": [
-            "Sky Sports Football"
-        ]
+        "channels": []
     },
     {
         "title": "Lucknow Super Giants vs Kolkata Knight Riders",
         "competition": "IPL T20",
         "status": "Live",
         "match_url": "https://vf.crichd.tv/lucknow-super-giants-vs-kolkata-knight-riders-live-streaming",
-        "channels": [
-            "Sky Sports Main Event"
-        ]
+        "channels": []
     },
     {
         "title": "Chelsea vs Leeds United",
         "competition": "English Fa Cup",
         "status": "Live",
         "match_url": "https://vf.crichd.tv/chelsea-vs-leeds-united-live-streaming",
-        "channels": [
-            "TNT Sports 1"
-        ]
+        "channels": []
     },
     {
         "title": "Real Oviedo vs Elche",
         "competition": "Spanish La Liga",
         "status": "Live",
         "match_url": "https://vf.crichd.tv/real-oviedo-vs-elche-live-streaming",
-        "channels": [
-            "Viaplay Sports 2 (CH2)"
-        ]
+        "channels": []
     },
     {
         "title": "LexisNexis Dragons vs Loughborough Lightning",
         "competition": "",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/lexisnexis-dragons-vs-loughborough-lightning-live-streaming",
-        "channels": [
-            "Sky Sports Main Event"
-        ]
+        "channels": []
     },
     {
         "title": "Hibernian vs Hearts",
         "competition": "Scottish Premier League",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/hibernian-vs-hearts-live-streaming",
-        "channels": [
-            "Sky Sports Football"
-        ]
+        "channels": []
     },
     {
         "title": "Osasuna vs Sevilla",
         "competition": "Spanish La Liga",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/osasuna-vs-sevilla-live-streaming",
-        "channels": [
-            "Viaplay Sports 1"
-        ]
+        "channels": []
     },
     {
         "title": "ATP/WTA 1000: Madrid",
         "competition": "ATP Tour",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/atpwta-1000-madrid-live-streaming",
-        "channels": [
-            "Sky Sports Tennis"
-        ]
+        "channels": []
     },
     {
         "title": "AC Milan vs Juventus",
