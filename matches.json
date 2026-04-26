@@ -32,15 +32,6 @@
         ]
     },
     {
-        "title": "Osasuna vs Sevilla",
-        "competition": "Spanish La Liga",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/osasuna-vs-sevilla-live-streaming",
-        "channels": [
-            "Viaplay Sports 1"
-        ]
-    },
-    {
         "title": "ATP/WTA 1000: Madrid",
         "competition": "ATP Tour",
         "status": "Live",
@@ -52,7 +43,7 @@
     {
         "title": "AC Milan vs Juventus",
         "competition": "Spanish La Liga",
-        "status": "Upcoming",
+        "status": "Live",
         "match_url": "https://vf.crichd.tv/ac-milan-vs-juventus-live-streaming",
         "channels": [
             "TNT Sports 1"
