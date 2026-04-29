@@ -23,15 +23,6 @@
         ]
     },
     {
-        "title": "Atletico Madrid vs Arsenal",
-        "competition": "UEFA Champions League",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/atletico-madrid-vs-arsenal-live-streaming",
-        "channels": [
-            "TNT Sports 1"
-        ]
-    },
-    {
         "title": "New South Wales Women vs Queensland Women",
         "competition": "English Premier League",
         "status": "Upcoming",
@@ -126,77 +117,99 @@
         "competition": "",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/reds-vs-brumbies-live-streaming",
-        "channels": []
+        "channels": [
+            "Sky Sports Mix"
+        ]
     },
     {
         "title": "Manchester United Women vs Brighton and Hove Albion Women",
         "competition": "English Premier League",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/manchester-united-women-vs-brighton-and-hove-albion-women-live-streaming",
-        "channels": []
+        "channels": [
+            "Sky Sports Premier League"
+        ]
     },
     {
         "title": "Chennai Super Kings vs Mumbai Indians",
         "competition": "IPL T20",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/chennai-super-kings-vs-mumbai-indians-live-streaming",
-        "channels": []
+        "channels": [
+            "Sky Sports  Cricket"
+        ]
     },
     {
         "title": "Arsenal vs Fulham",
         "competition": "English Premier League",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/arsenal-vs-fulham-live-streaming",
-        "channels": []
+        "channels": [
+            "Sky Sports Premier League"
+        ]
     },
     {
         "title": "Bayer Leverkusen vs RB Leipzig",
         "competition": "Bundesliga",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/bayer-leverkusen-vs-rb-leipzig-live-streaming",
-        "channels": []
+        "channels": [
+            "Sky Sports Mix"
+        ]
     },
     {
         "title": "Sunrisers Hyderabad vs Kolkata Knight Riders",
         "competition": "IPL T20",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/sunrisers-hyderabad-vs-kolkata-knight-riders-live-streaming",
-        "channels": []
+        "channels": [
+            "Sky Sports  Cricket"
+        ]
     },
     {
         "title": "Hibernian vs Celtic",
         "competition": "Scottish Premier League",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/hibernian-vs-celtic-live-streaming",
-        "channels": []
+        "channels": [
+            "Sky Sports Football"
+        ]
     },
     {
         "title": "Manchester City Women vs Liverpool Women",
         "competition": "English Premier League",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/manchester-city-women-vs-liverpool-women-live-streaming",
-        "channels": []
+        "channels": [
+            "Sky Sports Premier League"
+        ]
     },
     {
         "title": "Tottenham Hotspur Women vs London City Lionesses",
         "competition": "English Premier League",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/tottenham-hotspur-women-vs-london-city-lionesses-live-streaming",
-        "channels": []
+        "channels": [
+            "Sky Sports Main Event"
+        ]
     },
     {
         "title": "Bournemouth vs Crystal Palace",
         "competition": "English Premier League",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/bournemouth-vs-crystal-palace-live-streaming",
-        "channels": []
+        "channels": [
+            "Sky Sports Main Event"
+        ]
     },
     {
         "title": "Gujarat Titans vs Punjab Kings",
         "competition": "IPL T20",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/gujarat-titans-vs-punjab-kings-live-streaming",
-        "channels": []
+        "channels": [
+            "Sky Sports  Cricket"
+        ]
     },
     {
         "title": "Manchester United vs Liverpool",
