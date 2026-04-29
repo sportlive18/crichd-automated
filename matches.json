@@ -23,24 +23,6 @@
         ]
     },
     {
-        "title": "Arsenal Women vs Leicester City Women",
-        "competition": "English Premier League",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/arsenal-women-vs-leicester-city-women-live-streaming",
-        "channels": [
-            "Sky Sports Main Event"
-        ]
-    },
-    {
-        "title": "Glasgow City vs Celtic Women",
-        "competition": "English Premier League",
-        "status": "Live",
-        "match_url": "https://vf.crichd.tv/glasgow-city-vs-celtic-women-live-streaming",
-        "channels": [
-            "Sky Sports Football"
-        ]
-    },
-    {
         "title": "Atletico Madrid vs Arsenal",
         "competition": "UEFA Champions League",
         "status": "Live",
@@ -144,99 +126,77 @@
         "competition": "",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/reds-vs-brumbies-live-streaming",
-        "channels": [
-            "Sky Sports Mix"
-        ]
+        "channels": []
     },
     {
         "title": "Manchester United Women vs Brighton and Hove Albion Women",
         "competition": "English Premier League",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/manchester-united-women-vs-brighton-and-hove-albion-women-live-streaming",
-        "channels": [
-            "Sky Sports Premier League"
-        ]
+        "channels": []
     },
     {
         "title": "Chennai Super Kings vs Mumbai Indians",
         "competition": "IPL T20",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/chennai-super-kings-vs-mumbai-indians-live-streaming",
-        "channels": [
-            "Sky Sports  Cricket"
-        ]
+        "channels": []
     },
     {
         "title": "Arsenal vs Fulham",
         "competition": "English Premier League",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/arsenal-vs-fulham-live-streaming",
-        "channels": [
-            "Sky Sports Premier League"
-        ]
+        "channels": []
     },
     {
         "title": "Bayer Leverkusen vs RB Leipzig",
         "competition": "Bundesliga",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/bayer-leverkusen-vs-rb-leipzig-live-streaming",
-        "channels": [
-            "Sky Sports Mix"
-        ]
+        "channels": []
     },
     {
         "title": "Sunrisers Hyderabad vs Kolkata Knight Riders",
         "competition": "IPL T20",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/sunrisers-hyderabad-vs-kolkata-knight-riders-live-streaming",
-        "channels": [
-            "Sky Sports  Cricket"
-        ]
+        "channels": []
     },
     {
         "title": "Hibernian vs Celtic",
         "competition": "Scottish Premier League",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/hibernian-vs-celtic-live-streaming",
-        "channels": [
-            "Sky Sports Football"
-        ]
+        "channels": []
     },
     {
         "title": "Manchester City Women vs Liverpool Women",
         "competition": "English Premier League",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/manchester-city-women-vs-liverpool-women-live-streaming",
-        "channels": [
-            "Sky Sports Premier League"
-        ]
+        "channels": []
     },
     {
         "title": "Tottenham Hotspur Women vs London City Lionesses",
         "competition": "English Premier League",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/tottenham-hotspur-women-vs-london-city-lionesses-live-streaming",
-        "channels": [
-            "Sky Sports Main Event"
-        ]
+        "channels": []
     },
     {
         "title": "Bournemouth vs Crystal Palace",
         "competition": "English Premier League",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/bournemouth-vs-crystal-palace-live-streaming",
-        "channels": [
-            "Sky Sports Main Event"
-        ]
+        "channels": []
     },
     {
         "title": "Gujarat Titans vs Punjab Kings",
         "competition": "IPL T20",
         "status": "Upcoming",
         "match_url": "https://vf.crichd.tv/gujarat-titans-vs-punjab-kings-live-streaming",
-        "channels": [
-            "Sky Sports  Cricket"
-        ]
+        "channels": []
     },
     {
         "title": "Manchester United vs Liverpool",
