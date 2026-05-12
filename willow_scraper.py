@@ -10,8 +10,8 @@ from bs4 import BeautifulSoup
 import pytz
 
 # --- Configuration ---
-CRICHD_BASE_URL = "https://crichd.at/events/indian-premier-league"
-WEB_URL = "https://crichd.at/events/indian-premier-league"
+CRICHD_BASE_URL = "https://crichd.asia/"
+WEB_URL = "https://crichd.asia/"
 OUTPUT_M3U_FILE = "sayan10.m3u"
 FINAL_REFERRER = "https://executeandship.com/"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
