@@ -1,8 +1,8 @@
 #EXTM3U
-#DATE:- 19-05-2026 13:30
+#DATE:- 19-05-2026 17:45
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="dc631791-d78f-4085-b794-44d4c91b45dc" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/c2r5phz4u9i37ufcvpr5" tvg-lang="English" group-title="Cricket",English | Jersey v France
+#EXTINF:-1 tvg-id="da53fd68-82a3-41c3-86f0-2727ef79fe85" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ig6oeprtzlzfan2hpmgx" tvg-lang="English" group-title="Cricket",English | Guernsey v Austria
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -11,8 +11,8 @@
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1779206407~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=8db8137f0d0ccfeb93b25d84f66ec745d1a532e6193b4663ff5687c9c65450ba/manifest.mpd?vcfilter=dc631791-d78f-4085-b794-44d4c91b45dc&powered_by=jay_shree_ram
-#EXTINF:-1 tvg-id="e275a52f-0f19-429b-8775-9e972d164105" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ng3pcioi6rq1sl5scl3e" tvg-lang="English" group-title="Cricket",English | Sweden v Slovenia
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1779221707~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=8afcb0a39ccbcbd6027885d81e3e91e9c6faded1f401c99c99cf3806e77f3a52/manifest.mpd?vcfilter=da53fd68-82a3-41c3-86f0-2727ef79fe85&powered_by=jay_shree_ram
+#EXTINF:-1 tvg-id="5cecbdfe-b41b-427c-bc60-abd47b094b38" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vsbebjzwjlbui63pdgvp" tvg-lang="English" group-title="Cricket",English | Switzerland v Croatia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -21,4 +21,4 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1779206410~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=62f9517b21e2daf3a4b675dec2f3b0e6b7d1e3c9dcedfa53573f08fca684c708/manifest.mpd?vcfilter=e275a52f-0f19-429b-8775-9e972d164105&powered_by=jay_shree_ram
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1779221711~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=8374f4b5ad3e41a8661a4e0d126111dce926eddfe7831adfd23850fa38bbf08f/manifest.mpd?vcfilter=5cecbdfe-b41b-427c-bc60-abd47b094b38&powered_by=jay_shree_ram
