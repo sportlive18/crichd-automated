@@ -1,0 +1,485 @@
+{
+    "metadata": {
+        "name": "Fifa Plus Live Events",
+        "telegram": "https://t.me/livesportsplay",
+        "owner": "Md Sohanur Rahman Hady",
+        "last_update_time": "11:30:21 AM 21-05-2026",
+        "total_live": 0,
+        "total_upcoming": 8
+    },
+    "matches": [
+        {
+            "id": "32099225-6d2a-43c8-9d2c-c10cdada58d2",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "32099225-6d2a-43c8-9d2c-c10cdada58d2",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Draws | FIFA U-17 World Cup 2026™, FIFA U-17 Women's World Cup 2026™ and Youth Olympic Futsal Tournaments Dakar 2026",
+            "category": "livestream",
+            "urlSlug": "draws-fifa-youth-tournaments-youth-olympics",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/17/66/20/b7/176620b7-4ed4-448a-b725-4eb8af2f3f28.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/99/c6/8f/14/99c68f14-e1f8-4472-a68b-7a555b5ea4f2.png",
+            "freeMode": "FREE_ADS",
+            "title": "Draws | FIFA U-17 World Cup 2026™, FIFA U-17 Women's World Cup 2026™ and Youth Olympic Futsal Tournaments Dakar 2026",
+            "titleTemplateValues": {
+                "publisher": "FIFA",
+                "season:fifa-u-17-world-cup-qatar-2026tm": "FIFA U-17 World Cup Qatar 2026™",
+                "competition:fifa-u-17-women-s-world-cup": "FIFA U-17 Women's World Cup™",
+                "publisher-channel": "FIFA | FIFA Youth Tournaments and Youth Olympics Draws (Channel)",
+                "season:fifa-u-17-women-s-world-cup-morocco-2026tm": "FIFA U-17 Women's World Cup Morocco 2026™",
+                "competition:fifa-u-17-world-cup": "FIFA U-17 World Cup™",
+                "video-type": "Live Streams",
+                "organizer": "FIFA"
+            },
+            "startDate": "2026-05-21T12:50:00Z",
+            "endDate": "2026-05-21T18:30:00Z",
+            "ctxMetadata": {},
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Draws | FIFA U-17 World Cup 2026™, FIFA U-17 Women's World Cup 2026™ and Youth Olympic Futsal Tournaments Dakar 2026"
+                }
+            ]
+        },
+        {
+            "id": "91b14e4c-4056-4883-91e0-1b02c5b71611",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "91b14e4c-4056-4883-91e0-1b02c5b71611",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Bel Air FC v PTL Bazar Brothers FC | Seychelles Absa Premier League 2025/26",
+            "category": "livestream",
+            "urlSlug": "bel-air-fc-vs-ptl-bazar-brothers-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/45/9f/11/a8/459f11a8-e0bb-4967-9ffc-2e4fe552a13e.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/07/6f/c5/76/076fc576-0236-4856-b5e9-8b873aba1adf.png",
+            "freeMode": "FREE_ADS",
+            "title": "Bel Air FC v PTL Bazar Brothers FC | Seychelles Absa Premier League 2025/26",
+            "titleTemplateValues": {
+                "team:bel-air-fc": "Bel Air FC",
+                "team:ptl-bazar-brothers-fc": "PTL Bazar Brothers FC",
+                "publisher-channel": "MA | Seychelles | Absa Premier League 2025/2026",
+                "publisher": "MA | Seychelles",
+                "stadium": "Stad Linite",
+                "global-stage": "Round 15",
+                "stage": "Regular Season",
+                "association": "Seychelles",
+                "season": "Seychelles Absa Premier League 2025/26",
+                "match": "Bel Air FC v PTL Bazar Brothers FC",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "country": "Seychelles",
+                "city": "Roche Caiman",
+                "competition": "Seychelles Premier League",
+                "video-type": "Live Streams",
+                "organizer": "Seychelles",
+                "organizer-country": "Seychelles"
+            },
+            "startDate": "2026-05-21T14:20:00Z",
+            "endDate": "2026-05-21T17:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-21T14:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Bel Air FC v PTL Bazar Brothers FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Seychelles Absa Premier League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 15"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Seychelles"
+                }
+            ]
+        },
+        {
+            "id": "b9539fb4-2915-459f-92b8-acef181df406",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "b9539fb4-2915-459f-92b8-acef181df406",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "AS Douanes v ASN Nigelec | Super Ligue 2025/26",
+            "category": "livestream",
+            "urlSlug": "as-douanes-niger-vs-asn-nigelec",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9e/ec/cd/44/9eeccd44-ac8e-414d-a647-f8fe021614d5.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/98/52/a3/7a/9852a37a-8bac-48bf-88b9-1dd5845c1dd3.png",
+            "freeMode": "FREE_ADS",
+            "title": "AS Douanes v ASN Nigelec | Super Ligue 2025/26",
+            "titleTemplateValues": {
+                "publisher": "MA | Niger ",
+                "season": "Super Ligue 2025/26",
+                "stage": "Regular stage",
+                "team:as-douanes-niger": "AS Douanes",
+                "association": "Niger",
+                "competition": "Super Ligue",
+                "team:asn-nigelec": "ASN Nigelec",
+                "country": "Niger",
+                "city": "Niamey",
+                "match": "AS Douanes v ASN Nigelec",
+                "publisher-channel": "MA | Niger | Super Ligue 2025/2026",
+                "global-stage": "Round 26",
+                "stadium": "Municipal Stadium",
+                "video-type": "Live Streams",
+                "organizer": "Niger",
+                "organizer-country": "Niger"
+            },
+            "startDate": "2026-05-21T15:35:00Z",
+            "endDate": "2026-05-21T18:15:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-21T15:45:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "AS Douanes v ASN Nigelec"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Super Ligue 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Niger"
+                }
+            ]
+        },
+        {
+            "id": "30c7e557-ec29-403b-a51d-5b90af2c2ce5",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "30c7e557-ec29-403b-a51d-5b90af2c2ce5",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "2 Plateaux FC v OFC Adiaké | Côte d'Ivoire Ligue 2 2025/26",
+            "category": "livestream",
+            "urlSlug": "2-plateaux-fc-vs-ofc-adiake",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/2f/8c/0a/ac/2f8c0aac-82dd-41cc-afa6-b8ace2bf4263.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/fe/6d/25/f6/fe6d25f6-a4aa-46a9-9966-3512e0bb2703.png",
+            "freeMode": "FREE_ADS",
+            "title": "2 Plateaux FC v OFC Adiaké | Côte d'Ivoire Ligue 2 2025/26",
+            "titleTemplateValues": {
+                "competition": "Ligue 2",
+                "association": "Côte d'Ivoire",
+                "team:2-plateaux-fc": "2 Plateaux FC",
+                "match": "2 Plateaux FC v OFC Adiaké",
+                "city": "Bingerville",
+                "publisher-channel": "MA | Côte d'Ivoire | Ligue 2 2025-2026",
+                "season": "Côte d'Ivoire Ligue 2 2025/26",
+                "country": "Côte d'Ivoire",
+                "global-stage": "Round 26",
+                "stage": "Regular Season",
+                "stadium": "Complexe sportif de Bingerville",
+                "team:ofc-adiake": "OFC Adiaké",
+                "publisher": "MA | Côte d'Ivoire",
+                "video-type": "Live Streams",
+                "organizer": "Côte d'Ivoire",
+                "organizer-country": "Côte d'Ivoire"
+            },
+            "startDate": "2026-05-21T15:50:00Z",
+            "endDate": "2026-05-21T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-21T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "2 Plateaux FC v OFC Adiaké"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Côte d'Ivoire Ligue 2 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Côte d'Ivoire"
+                }
+            ]
+        },
+        {
+            "id": "09731369-9bea-40e0-8ac0-1ff8d896c682",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "09731369-9bea-40e0-8ac0-1ff8d896c682",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Luawa FC v East End Lions FC | Leone Rock Premier League 2025-26",
+            "category": "livestream",
+            "urlSlug": "luawa-fc-vs-east-end-lions-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/c5/97/d7/e9/c597d7e9-6be8-4d2a-84ee-e7dda06510ab.png",
+            "freeMode": "FREE_ADS",
+            "title": "Luawa FC v East End Lions FC | Leone Rock Premier League 2025-26",
+            "titleTemplateValues": {
+                "team:east-end-lions-fc": "East End Lions FC",
+                "stage": "Regular Season",
+                "country": "Sierra Leone",
+                "competition": "Premier League",
+                "team:luawa-fc": "Luawa FC",
+                "stadium": "Approved School Field",
+                "global-stage": "Round 27",
+                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
+                "association": "Sierra Leone",
+                "city": "Freetown",
+                "season": "Leone Rock Premier League 2025-26",
+                "publisher": "MA | Sierra Leone",
+                "match": "Luawa FC v East End Lions FC",
+                "video-type": "Live Streams",
+                "organizer": "Sierra Leone",
+                "organizer-country": "Sierra Leone"
+            },
+            "startDate": "2026-05-21T16:20:00Z",
+            "endDate": "2026-05-21T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-21T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Luawa FC v East End Lions FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Leone Rock Premier League 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 27"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Sierra Leone"
+                }
+            ]
+        },
+        {
+            "id": "09a36335-6144-4415-b2fb-6b21ded8d71b",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "09a36335-6144-4415-b2fb-6b21ded8d71b",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "SLIFA FC v Kamboi Eagles FC | Leone Rock Premier League 2025-26",
+            "category": "livestream",
+            "urlSlug": "slifa-fc-vs-kamboi-eagles-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/de/d6/e7/c6/ded6e7c6-d294-4d49-b74a-42ce81b5343f.png",
+            "freeMode": "FREE_ADS",
+            "title": "SLIFA FC v Kamboi Eagles FC | Leone Rock Premier League 2025-26",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "country": "Sierra Leone",
+                "competition": "Premier League",
+                "match": "SLIFA FC v Kamboi Eagles FC",
+                "team:kamboi-eagles-fc": "Kamboi Eagles FC",
+                "team:slifa-fc": "SLIFA FC",
+                "global-stage": "Round 27",
+                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
+                "association": "Sierra Leone",
+                "stadium": "SLFA Academy Field",
+                "city": "Freetown",
+                "season": "Leone Rock Premier League 2025-26",
+                "publisher": "MA | Sierra Leone",
+                "video-type": "Live Streams",
+                "organizer": "Sierra Leone",
+                "organizer-country": "Sierra Leone"
+            },
+            "startDate": "2026-05-21T16:20:00Z",
+            "endDate": "2026-05-21T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-21T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "SLIFA FC v Kamboi Eagles FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Leone Rock Premier League 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 27"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Sierra Leone"
+                }
+            ]
+        },
+        {
+            "id": "b8750462-ee2c-4220-ac82-177df75d6e05",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "b8750462-ee2c-4220-ac82-177df75d6e05",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Wusum Stars FC v Bullom Stars FC | Leone Rock Premier League 2025-26",
+            "category": "livestream",
+            "urlSlug": "wusum-stars-fc-vs-bullom-stars-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/13/b0/b8/46/13b0b846-6955-4567-b523-bb1073f8402c.png",
+            "freeMode": "FREE_ADS",
+            "title": "Wusum Stars FC v Bullom Stars FC | Leone Rock Premier League 2025-26",
+            "titleTemplateValues": {
+                "team:bullom-stars-fc": "Bullom Stars FC",
+                "stage": "Regular Season",
+                "match": "Wusum Stars FC v Bullom Stars FC",
+                "country": "Sierra Leone",
+                "competition": "Premier League",
+                "global-stage": "Round 27",
+                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
+                "association": "Sierra Leone",
+                "city": "Makeni",
+                "stadium": "Wusum Field",
+                "season": "Leone Rock Premier League 2025-26",
+                "publisher": "MA | Sierra Leone",
+                "video-type": "Live Streams",
+                "team:wusum-stars-fc": "Wusum Stars FC",
+                "organizer": "Sierra Leone",
+                "organizer-country": "Sierra Leone"
+            },
+            "startDate": "2026-05-21T16:20:00Z",
+            "endDate": "2026-05-21T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-21T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Wusum Stars FC v Bullom Stars FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Leone Rock Premier League 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 27"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Sierra Leone"
+                }
+            ]
+        },
+        {
+            "id": "ffc91001-0a13-47ca-8afb-8ddb9a492d43",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "ffc91001-0a13-47ca-8afb-8ddb9a492d43",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Stade Malien v US Bougouni | Ligue 1 Pro Orange 2025/26",
+            "category": "livestream",
+            "urlSlug": "stade-malien-vs-us-bougouni",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/ac/59/f0/5a/ac59f05a-c2ad-43a2-9106-de83c6792b2a.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/84/4c/d0/16/844cd016-cd9f-471d-a6ea-f5ba6710d7a7.png",
+            "freeMode": "FREE_ADS",
+            "title": "Stade Malien v US Bougouni | Ligue 1 Pro Orange 2025/26",
+            "titleTemplateValues": {
+                "competition": "Ligue 1 Pro Orange",
+                "city": "Bamako",
+                "team:stade-malien": "Stade Malien",
+                "association": "Mali",
+                "global-stage": "Round 21",
+                "publisher": "MA | Mali",
+                "country": "Mali",
+                "match": "Stade Malien v US Bougouni",
+                "season": "Ligue 1 Pro Orange 2025/26",
+                "publisher-channel": "MA | Mali | Ligue 1 Pro Orange 2025/26",
+                "stage": "Regular Season",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "stadium": "Mamadou Konate Stadium",
+                "team:us-bougouni": "US Bougouni",
+                "video-type": "Live Streams",
+                "organizer": "Mali",
+                "organizer-country": "Mali"
+            },
+            "startDate": "2026-05-21T16:20:00Z",
+            "endDate": "2026-05-21T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-21T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Stade Malien v US Bougouni"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 1 Pro Orange 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 21"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mali"
+                }
+            ]
+        }
+    ]
+}
