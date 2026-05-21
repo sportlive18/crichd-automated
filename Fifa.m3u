@@ -1,5 +1,20 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:45:21 PM 21-05-2026
+#last update time: 09:45:24 PM 21-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/99/c6/8f/14/99c68f14-e1f8-4472-a68b-7a555b5ea4f2.png" group-title="FIFA Live", Draws | FIFA U-17 World Cup 2026™, FIFA U-17 Women's World Cup 2026™ and Youth Olympic Futsal Tournaments Dakar 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0d7cdd4d6813f18bbbbded7b373569f:1e6a23d21de7201cd8f996a9785ec0d6
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_14_25_35_852426fc-e6f3-4ad9-93ff-8c1a73b49bbe/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779368040
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/07/6f/c5/76/076fc576-0236-4856-b5e9-8b873aba1adf.png" group-title="FIFA Live", Bel Air FC v PTL Bazar Brothers FC | Seychelles Absa Premier League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be8780eee1ad337387c6ee39d82ca3a3:1e08f4014f04c930701e04bd9b4b410b
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_07_47_43_c77c2a25-90f9-4ebe-9b0e-73ca83bbf528/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779373140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/98/52/a3/7a/9852a37a-8bac-48bf-88b9-1dd5845c1dd3.png" group-title="FIFA Live", AS Douanes v ASN Nigelec | Super Ligue 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f814501fcde7381f8fa5266d689786ac:de2c435dd7ced05213146e56c329b201
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_09_51_50_fed91e71-c3dd-40ac-bede-979761711b87/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779377640
