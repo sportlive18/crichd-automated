@@ -2,7 +2,7 @@ name: Update ICC.m3u
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/10 * * * *'
 permissions:
   contents: write
 jobs:
@@ -15,7 +15,7 @@ jobs:
     - name: Fetch files from hosting
       run: |
         curl -L -o ICC.m3u "https://raw.githubusercontent.com/doctor-8trange/nexphi0/refs/heads/main/data/icc.m3u"
-        curl -L -o Fifa.m3u "https://raw.githubusercontent.com/srhady/fifaplus/refs/heads/main/match_data.json"
+        curl -L -o Fifa.m3u "https://raw.githubusercontent.com/srhady/fifaplus/refs/heads/main/fifa_live.m3u"
 
     - name: Commit and push changes
       run: |
