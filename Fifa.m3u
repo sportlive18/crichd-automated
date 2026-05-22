@@ -1,15 +1,25 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:15:24 PM 22-05-2026
+#last update time: 09:30:32 PM 22-05-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/63/c2/c5/2b/63c2c52b-312b-4289-ad32-a0db641ed218.png" group-title="FIFA Live", Anse Reunion FC v Real Maldive FC | Seychelles Absa Premier League 2025/26
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/62/2c/88/4f/622c884f-551b-4d29-bcc6-acb557a471e5.png" group-title="FIFA Live", St. Michel SC v Revengers FC | Seychelles Absa Premier League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85404bc3517d377fa69753d1eae88979:6bb94788d97a09f5343ce018c31194d6
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_07_47_46_b8f2da23-43a7-45ca-bfce-5f198c2a27c6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779446040
+#KODIPROP:inputstream.adaptive.license_key=5388fdaab98c3630af1cef23e511d9ba:18a18ffae0ebafc8d188f9a278d3fc18
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_07_47_49_b33ae871-6299-416c-b408-6fc92ddef09f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779459540
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/70/01/fe/9f/7001fe9f-5ac7-4a43-be02-f771e4d76de9.png" group-title="FIFA Live", Gabala SC v Shafa FC | Azerbaijan Women's League 2025/26
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/11/b7/3b/43/11b73b43-9be8-4e3c-92d1-8519af9c82a8.png" group-title="FIFA Live", Dragons FC v Loto Popo FC | Ligue 1 2025
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=985b3485808c3d2f856e61c0ae538f42:23eb0abb820e4331088bbf5a6a69eb3c
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_06_56_49_43890045-aff9-4b81-9137-fb2b586555ee/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779450540
+#KODIPROP:inputstream.adaptive.license_key=06e023cc59b6389aaf48784ad588b5c1:0059ade92b99b7578bea61665ef32b59
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_13_46_53_52e89851-4900-4419-9942-a955fa2d92cd/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779461340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4b/5c/82/bd/4b5c82bd-18f2-4bd3-adc1-6a87002714ba.png" group-title="FIFA Live", Hodio FC v Dadjè FC | Ligue 1 2025
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fa8a86cfb57386e80633cdd41e1c6f5:38e840a49cd425ca536f45577b2b3691
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_13_46_56_bf2de4b1-da1a-49cb-b21a-858e41472f6d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779461640
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ab/f1/8a/f3/abf18af3-64d5-42b2-a12f-245bfaf79354.png" group-title="FIFA Live", Al Jazira v Al Ain FC | Final | President's Cup 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e43e669d8f2f3f70bf94ead83cfb5c74:4ec3cfb34a6f79ee87f1c51be3f2101e
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_09_28_19_657f16c2-a6c8-4b6c-b0fd-751f05f5b7cf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779463740
