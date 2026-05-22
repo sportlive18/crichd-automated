@@ -1,10 +1,15 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:45:21 PM 22-05-2026
+#last update time: 06:15:24 PM 22-05-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/13/b0/b8/46/13b0b846-6955-4567-b523-bb1073f8402c.png" group-title="FIFA Live", Wusum Stars FC v Bullom Stars FC | Leone Rock Premier League 2025-26
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/63/c2/c5/2b/63c2c52b-312b-4289-ad32-a0db641ed218.png" group-title="FIFA Live", Anse Reunion FC v Real Maldive FC | Seychelles Absa Premier League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=049c8e9c71234f20873a8ad07a981619:2f1dd96ab5988ed8df4bb548c7c53501
-https://du2yfy2plnh46.cloudfront.net/out/v1/b173309160114f7ca57f1d6826f2249a/8f1900706e91489c97d9bfa78cd54535/027a1ce70f5243389f55092171452030/index.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720
+#KODIPROP:inputstream.adaptive.license_key=85404bc3517d377fa69753d1eae88979:6bb94788d97a09f5343ce018c31194d6
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_07_47_46_b8f2da23-43a7-45ca-bfce-5f198c2a27c6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779446040
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/70/01/fe/9f/7001fe9f-5ac7-4a43-be02-f771e4d76de9.png" group-title="FIFA Live", Gabala SC v Shafa FC | Azerbaijan Women's League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=985b3485808c3d2f856e61c0ae538f42:23eb0abb820e4331088bbf5a6a69eb3c
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_06_56_49_43890045-aff9-4b81-9137-fb2b586555ee/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779450540
