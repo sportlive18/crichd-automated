@@ -1,63 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:20 AM 24-05-2026
+#last update time: 01:45:18 AM 24-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e0/c4/e4/ad/e0c4e4ad-abc0-4db7-8698-a0a9f81efe1b.png" group-title="FIFA Live", Freetown City FC v Old Edwardians FC | Leone Rock Premier League 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3fd9eef0edc3909a90d723eb4311483:0b6bbc2ab97f89d0bba342fe3f9c5f0a
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_08_48_01_7debf637-ccad-4711-8eee-298ece0ffbb0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779553140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5a/12/39/12/5a123912-f1f5-4f62-aacf-541c5a8770bb.png" group-title="FIFA Live", Freeport FC v Paynesville FC | LFA First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e339caa94883918912030e1cdea0ce7:d07a4b98511d48b731b658fb60ca1b84
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_14_51_32_3fb71b98-76a3-4e30-8b32-31472cee5582/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779553140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6f/35/eb/c1/6f35ebc1-4cc2-42a9-b592-599377eb4ad3.png" group-title="FIFA Live", Sekzia Ness Ziona v Maccabi Yafo Kabilyo | Liga Noar Leumit U19 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d907a9dcf18c3cba98cc435bd4997594:d477af5c6a8feec956f55c97436a933e
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_12_24_52_83273bf2-5dff-4afa-a618-7cb640fd6f40/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779553440
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e3/a0/77/7b/e3a0777b-0467-482c-a05c-89b4fdb75bca.png" group-title="FIFA Live", Académica do Porto Novo v Benfica da Brava | Cape Verdean Football Championship 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=50095e761ab33cad8a5d40f07d60d553:77f3f23ad01be4de2a6610de622a1119
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_08_54_34_632a0e3b-09b0-4364-8d21-5cf8c02aef2c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779554940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/10/a0/43/83/10a04383-e32c-4615-a070-ca81008e6d70.png" group-title="FIFA Live", Académico do Sal v Scorpion Vermelho | Cape Verdean Football Championship 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bb1715bb9f713335bff0b27e6a911528:2c9f4ac934e7673a7bc929264a0b14c9
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_08_54_30_58b39804-e0a6-4fb8-9ee1-2374b225247b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779554940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/de/77/e2/86/de77e286-3052-46ab-be8d-45c73b9e1e87.png" group-title="FIFA Live", Boavista da Praia v Mindelense | Cape Verdean Football Championship 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d4256079cef234578c4868fdbebe4d09:c79bc314e967adda8c6a8531d939d84d
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_08_54_27_385bfc4f-4950-4768-95c0-f87783af4df7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779554940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/21/be/8a/b6/21be8ab6-7faa-446e-99e6-a6bd6d965389.png" group-title="FIFA Live", Onze Unidos v Atlético São Nicolau | Cape Verdean Football Championship 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ee6643abc8136e1a01b29a7ee04cc15:99de74f4d48071ff4c39a261fb89926b
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_08_55_01_e8a66624-783b-4127-a9f9-57854227eeee/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779554940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/86/2d/c0/83/862dc083-8620-450d-8cbc-1aa33827a206.png" group-title="FIFA Live", KF Vllaznia v KF Egnatia | Championship Playoff | Kategoria Superiore 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8dd940518b39338d93f6111872892fdc:d3eb3557ea5a44e630c6e94e67effe13
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_59_33_d38810d1-b663-4b1a-be10-97ef1c4ce661/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779554940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7b/fd/84/c2/7bfd84c2-d73c-462f-9f03-37204ce12286.png" group-title="FIFA Live", África Show v Palmeira | Cape Verdean Football Championship 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=615f5329deeb367ebf94e9a93b3be51e:7fbf7384ef3d79dedfd2c4b9da3fd060
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_08_54_57_baf761e6-cfe2-4ca3-adf1-a62e17ff328f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779556140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d2/e2/3b/09/d2e23b09-8ac0-489c-95fe-66816758f6d8.png" group-title="FIFA Live", FC Nouadhibou v Inter Nouakchott | Super D-1 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c768881df6733f9b5c1f9cb39e5187d:24655dee68c1fe8b2e91506a06e0bfc9
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_13_24_34_06b0e80e-c085-4128-b8f8-502caeafcae2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779556440
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1c/a1/48/7f/1ca1487f-19ac-4f46-9347-e059df9970c0.png" group-title="FIFA Live", Cupelum FC v Sporting Clube GB | Campeonato Nacional de Futebol da 1a Divisão 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=412c51dc57b03ef08451a9f1e9445535:ed0b73fc865a8f27c2d9e8e3c1929a7d
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_13_51_25_9596522f-93c1-4045-a229-10655cbec851/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779554640
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/db/3a/9b/58/db3a9b58-247f-45b9-83be-5f7e09c001b5.png" group-title="FIFA Live", Tre Fiori v La Fiorita | Coppa Titano 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
