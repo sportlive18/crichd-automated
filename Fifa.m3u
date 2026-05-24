@@ -1,48 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:30:20 PM 24-05-2026
+#last update time: 12:45:18 AM 25-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/cb/87/f6/31/cb87f631-3c17-42cb-8260-846710339a6c.png" group-title="FIFA Live", AS Gbohloesu v ASCK | D1 Lonato 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=576d3af187ae3ad393dd50d3114cd55c:84662eccaa584502284fc2b3f1e0f31f
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_22_28_8c554ff5-6c95-4c31-bc3f-357aa771b364/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779635940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/2f/be/a5/81/2fbea581-1156-4142-84a0-53405b96f700.png" group-title="FIFA Live", Entente II v AS OTR | D1 Lonato 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=096bed1145923f01aa1796cdcf17a10d:51ecf7bb4f4d8612fa2448f1ba07ccf8
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_22_06_2b63c268-3ae8-4e27-a5c6-bd5ef55e5354/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779635940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/dc/a0/92/c4/dca092c4-c626-4b1d-81ef-54751e3e9cf6.png" group-title="FIFA Live", Semassi FC v ASKO | D1 Lonato 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f3ce10877ba33c4bbc79d488277a82e:5f816faa5e593189a2275576c3a240e0
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_22_13_441e6c7d-951b-429e-8737-fdb19569d616/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779635940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/83/61/e8/3d/8361e83d-8644-4d78-8ccf-65caff7cedd2.png" group-title="FIFA Live", AS UAM v ASN Nigelec | Coupe Nationale 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d3423a14b1e3e349238acb87031d37c:b0f3c9b87e8086730ca222d6ac562506
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_13_54_38_adac021b-04ba-4ebe-80e6-227213358e79/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779636840
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/10/2b/71/60/102b7160-9938-461e-a178-85f0a4eabb78.png" group-title="FIFA Live", KOZAF v AS Sonabel | Burkina Faso Ligue 1 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=145f915b48a338c388ecd2572737fa56:5c630f8f282163078807d05ee6226469
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_14_02_22_cd32bde1-fbd7-48b1-8197-87a2c8930fb3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779637740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/27/14/43/12/27144312-5f48-4d98-809a-fd07c01ca9af.png" group-title="FIFA Live", Discoveries SA v Bea Mountain FC | LFA First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60864e6d2280346793c3a6e5636ed63b:eea294c0ee80af7119dbe58e3f594913
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_14_51_39_90ee4654-99eb-4375-9c43-15681fe6a15f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779637740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/63/dc/23/80/63dc2380-0863-4bcf-a9ad-697055662e28.png" group-title="FIFA Live", Heaven Eleven v Watanga FC | LFA First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=386c1e3400c530aa893142ecb04cb8fa:281818a5b6085061f934e5856a221a7e
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_14_51_42_b51b90b3-f82a-43ff-adc8-a2486439d250/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779637740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ee/e6/f7/5a/eee6f75a-e759-4b55-897e-3b79a5c012ac.png" group-title="FIFA Live", Masters FC v Dedza Dynamos FC | FDH Bank Premiership
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f33d7c6e7c9c3f69a9eb36636eac15aa:9347af2198e2ad73ea1612158eb20c29
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_15_47_22_f95f607e-0629-4b64-aa3a-7fd8d045c265/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779638040
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/70/36/cb/79/7036cb79-4dec-4b91-b9c9-546b184c5f29.png" group-title="FIFA Live", Kamboi Eagles FC v Diamond Stars FC | Leone Rock Premier League 2025-26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -59,30 +19,15 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_08_48_21_d5141366-693f-4833-94dc
 #KODIPROP:inputstream.adaptive.license_key=a3cc4ee5247f3280b27b8182f987f809:75ec5c3464562f585cad76dcdb661a92
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_08_48_06_117e6766-d400-45c4-8afc-54b5ddcf2b59/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779639540
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1d/a8/80/6e/1da8806e-1745-4e9b-9af7-0c742fe68673.png" group-title="FIFA Live", Bo Rangers FC v Ports Authority FC | Leone Rock Premier League 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a70fd240dc9639f4888dfb18c3236c2b:bd7ab17c14d894665afa343b56b5d447
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_08_48_16_95247501-f1fb-4159-ab4c-74f85bf86edf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779639540
-
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3d/60/d8/65/3d60d865-be01-47e5-83cc-8bd591c8e627.png" group-title="FIFA Live", East End Lions FC v Wusum Stars FC | Leone Rock Premier League 2025-26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=54db978dad5b39bc8c36ec61e4ae7a74:76d710437dd37e1a06582bdfdebfc37b
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_08_48_26_edfd2562-6ec7-43b3-a1ca-c18979d71727/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779639540
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/25/eb/22/a1/25eb22a1-802a-4c1f-83ee-9d2843b952cf.png" group-title="FIFA Live", Afrique Football Elite v Binga FC | Ligue 1 Pro Orange 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8036481714c83a33b34278f529d343af:cda243c28c779ba158e370caf06a36e4
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_07_57_49_3e44c9a4-78ec-4102-800b-2ab5f8ef8297/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779639540
-
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/00/d1/18/13/00d11813-7530-4c3a-a60d-063e22c34e7a.png" group-title="FIFA Live", FC Malicoura v Stade Malien | Ligue 1 Pro Orange 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0429af15ac234538294891e6adcc857:204de86509c70258fd3ecfa962518d60
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_07_57_54_acf829f0-3fcb-4fa1-b0cd-259538b37ebc/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779639540
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4a/e7/d3/1a/4ae7d31a-7d68-49e3-bd49-3b0f593bc42c.png" group-title="FIFA Live", AS Binah v FC Espoir | D1 Lonato 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43446a0b4c3f3b65a5e4bc1c2464d372:e9904b0c7bb0c43251fe959a74e6c6c4
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_22_09_420c58b0-0fe8-4905-932e-310867aa7908/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779635940
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/15/82/35/ea/158235ea-431b-43ae-a3e8-6edf701d5340.png" group-title="FIFA Live", SB Benfica v UDIB | Campeonato Nacional de Futebol da 1a Divisão 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
