@@ -1,25 +1,10 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:00:23 AM 24-05-2026
+#last update time: 10:30:20 AM 24-05-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c7/d2/93/6a/c7d2936a-4ea3-4a36-912d-c79e643ad5c1.png" group-title="FIFA Live", St. John's SC v Honved FC | Grenada Premier League 2026/27
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/04/59/9c/24/04599c24-9666-438a-90db-57b4451059db.jpg" group-title="FIFA Live", South Melbourne FC v Auckland FC | OFC Professional League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d741fbb34f163600b72d32ad72d4fb35:e0360e7aed2a7ef21b7b7a9faf5aee7c
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_15_04_12_b76d5433-d3bc-467f-8e0e-86d3e08990d2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779573360
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3d/7f/3c/16/3d7f3c16-b3bc-406e-951b-b67e85c17fec.png" group-title="FIFA Live", Dublanc FC v Bath Estate FC | DFA Premier League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf9c8e9414bd31f5a952689fcc0975ce:fc083851364b7b5adc31383d03da4158
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_13_07_32_5393ee5f-b422-49ea-9c87-b7ffac25509b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779574740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b7/34/1f/16/b7341f16-da1f-4822-a8c6-d1222575ee47.png" group-title="FIFA Live", La Fama v SV Sporting Aruba | Division Honor 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5da1c680d4f8351a97a4ec3991fff0f9:18bba127a664a5ab892acc075a504fb4
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_06_8af6d107-e490-4687-932b-59ee344f677a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779574740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f1/85/8b/16/f1858b16-2292-4d15-b813-e537a28ec99f.png" group-title="FIFA Live", Cheshire Hall FC v Beaches FC | Provo Premier League 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b964db9db8b3c5693a33aab3aae4c2e:cbe1b37680dbe3655176a9d4136a2429
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_14_46_25_e6f496b8-4180-4d4e-bf5b-97f90e2143de/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779574740
+#KODIPROP:inputstream.adaptive.license_key=aef2cd9cd72136498cf862826ef78512:379bf4a6a119875f10a1966e5c782467
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_13_04_51_9a9f4458-0a8b-4e63-bad1-abe1998d9bce/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779590940
