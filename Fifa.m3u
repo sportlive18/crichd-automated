@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:45:19 AM 25-05-2026
+#last update time: 03:00:25 AM 25-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/91/4e/fc/1b/914efc1b-4f8a-42ee-9b6c-771fac40410b.png" group-title="FIFA Live", El Vigía FC v Ureña SC | Liga FUTVE 2 2026
@@ -18,3 +18,33 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_14_28_13_4d8cf24d-ebb1-4f94-95c5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96f3c182c3953c709769500ad0bec045:04da13ef3fd40f79cfa307997caca5e7
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_13_45_30_e7828227-cc28-4674-8c44-f355e5cddacc/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779650340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6f/52/b2/2d/6f52b22d-ccb7-49db-b919-ee79e27e2a98.png" group-title="FIFA Live", South East FC v Harlem United SC | DFA Premier League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08ed0fc2c48a30888e052d821219e9ef:4d447560a595d47ba6d6b1d776bb1ebd
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_13_07_39_ea84ee4f-d8e9-46c4-89f8-f9ccfa13b72a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779652140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/30/f7/a2/d5/30f7a2d5-e140-433f-8afa-48af41e43068.png" group-title="FIFA Live", FC San Nicolas v Caravel | Division Honor 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd3b00e661313fb38e3a396a9d30e5e3:8b5f5cc5d1443d7e5fc114616f12dc7f
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_14_8d56df7c-94c9-4488-836d-7ccb3825e00a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779652140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/fe/fc/ac/af/fefcacaf-2e7c-4ace-bb3c-abb27c987ed9.png" group-title="FIFA Live", Miranda v Dynamo Puerto | Liga FUTVE 2 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59d6820d273833b3a27c1b12ea49d6f9:ab3b30e9f53d0f5689c5f10d33139c95
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_08_33_18_782e34b6-9e30-405f-9b23-f96e9b6f37e6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779652140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8e/24/f9/85/8e24f985-3c28-4d81-8907-6dadce993203.png" group-title="FIFA Live", Yaracuyanos F.C. v Barquisimeto SC | Liga FUTVE 2 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d32f1b81c9563ca994bbfbd420db8375:d0d4204da0e76f7b6c9d0d9648a5d9a5
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_14_28_21_cdaa2a88-9f3d-463c-b1f0-b02562af4cef/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779653940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b0/6b/c6/85/b06bc685-56c5-47ea-baf8-6bef7aaa4167.png" group-title="FIFA Live", Inter Moengo Tapoe v Leo Victor | Suriname Major League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a7db557a32b3336a9057b5cb9b71584:cfa20b8c6765d81a8994471b6d88bcda
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_22_12_54_36_f10eb8ac-0d89-4a06-a228-0b0028808b89/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anld%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779653940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/bd/65/27/71/bd652771-8915-4ae9-b2a8-9ae930bbe08e.png" group-title="FIFA Live", Deportivo Lara v Zamora FC (B) | Liga FUTVE 2 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6879a02ff10d379b974adc414cf96eb3:d8c4dd23f49ff9057ff018d371688014
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_14_28_24_e928a95f-386c-45d9-b546-1645fa651f3d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779655740
