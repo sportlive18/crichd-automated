@@ -1,18 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:00:25 AM 25-05-2026
+#last update time: 04:00:24 AM 25-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/91/4e/fc/1b/914efc1b-4f8a-42ee-9b6c-771fac40410b.png" group-title="FIFA Live", El Vigía FC v Ureña SC | Liga FUTVE 2 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2ccfcf9595e431d99cedde00b622962f:7caed97407e5a6884f5aa59f5ad1da2e
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_14_28_16_945da078-ae7f-4d4c-ba9a-3d11a0c2f668/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779650340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7f/d6/21/e7/7fd621e7-d30e-40e5-aa23-ae3b2cb20b5b.png" group-title="FIFA Live", Real Frontera v Puerto Cabello B | Liga FUTVE 2 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5c496b907e733f29fec9b512b6d739c:db6f5c62fb803b5d28d8b9f9e1ad5e56
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_14_28_13_4d8cf24d-ebb1-4f94-95c5-ac2f468b322b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779650340
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/db/08/13/c1/db0813c1-3e5d-4fd1-a1d3-4d944978ddae.png" group-title="FIFA Live", San Ramón FF v Upala FC | Women's Second Division 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -48,3 +38,18 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_22_12_54_36_f10eb8ac-0d89-4a06-a228
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6879a02ff10d379b974adc414cf96eb3:d8c4dd23f49ff9057ff018d371688014
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_14_28_24_e928a95f-386c-45d9-b546-1645fa651f3d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779655740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/50/2f/1e/6c/502f1e6c-5893-4d6b-af22-48279ef29af9.png" group-title="FIFA Live", Lymers FC v West End Predators  | Anguilla Senior Men's League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34cb873b63e833a5a2be7e9af85e5c7d:d10370b0df3dc6a480c97c7801f1bcf8
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_28_49_efffb2ee-7085-4371-8927-94ac012efaa0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779659340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ef/98/82/b1/ef9882b1-3509-4c83-b264-0034d89c5cb2.png" group-title="FIFA Live", Paradise FC v Brittons Hill FC | BFA Premier League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e8fbdcb232635278756cb86e1ac9c90:a48984c81a1f2ad20504145355ca0174
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_06_02_04f8f61a-43a8-4972-b9d2-b3218084a4fa/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779659340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7b/d4/dc/09/7bd4dc09-f7bd-45b6-ba5a-71877983e5ce.png" group-title="FIFA Live", Estrella v River Plate Aruba | Division Honor 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d677577e91dc349baf7245a184b5d930:34141d734ad6b0748742818f0a237869
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_20_d981024d-cdbc-4758-8f54-12c389a678cf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779659880
