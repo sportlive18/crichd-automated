@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:00:24 AM 25-05-2026
+#last update time: 06:15:17 AM 25-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/bd/65/27/71/bd652771-8915-4ae9-b2a8-9ae930bbe08e.png" group-title="FIFA Live", Deportivo Lara v Zamora FC (B) | Liga FUTVE 2 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6879a02ff10d379b974adc414cf96eb3:d8c4dd23f49ff9057ff018d371688014
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_14_28_24_e928a95f-386c-45d9-b546-1645fa651f3d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779655740
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/50/2f/1e/6c/502f1e6c-5893-4d6b-af22-48279ef29af9.png" group-title="FIFA Live", Lymers FC v West End Predators  | Anguilla Senior Men's League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -19,11 +14,6 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_28_49_efffb2ee-7085-4371-8927
 #KODIPROP:inputstream.adaptive.license_key=8e8fbdcb232635278756cb86e1ac9c90:a48984c81a1f2ad20504145355ca0174
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_06_02_04f8f61a-43a8-4972-b9d2-b3218084a4fa/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779659340
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7b/d4/dc/09/7bd4dc09-f7bd-45b6-ba5a-71877983e5ce.png" group-title="FIFA Live", Estrella v River Plate Aruba | Division Honor 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d677577e91dc349baf7245a184b5d930:34141d734ad6b0748742818f0a237869
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_20_d981024d-cdbc-4758-8f54-12c389a678cf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779659880
-
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5e/78/4d/59/5e784d59-cf33-42c2-964d-771f3ce8736b.png" group-title="FIFA Live", Pointe Michel FC v Mahaut Soca Strikers FC | DFA Premier League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ce90304157e38afb292cd8739dfaf94:9dd2e3d77dd705a991a75a6a12dae01d
@@ -33,3 +23,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_13_07_41_1a9c6df6-ad9e-4579-806e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=303bdb5ea4493263925ca891c0b034ed:c0c4d2ae5d223ff5fbfeb1f6cb74e4ef
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_22_12_54_39_f68d0d8a-daf6-4784-ada1-4e7d6a11d4b6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anld%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779662940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/81/8a/24/32/818a2432-20b2-4692-b27e-efc3fbeca9f8.png" group-title="FIFA Live", Caiquetio v Brazil Juniors | Division Honor 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e3c0e32bf723fcf9a88ee2b2882ec7b:c2634eac2c90889083fd40cc7c4f7631
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_25_0d7aa3bc-0a9a-45d2-bc3a-9c282f01c24f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779666540
