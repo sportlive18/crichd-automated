@@ -1,10 +1,10 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:15:23 PM 26-05-2026
+#last update time: 11:30:22 PM 26-05-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/18/26/23/75/18262375-1703-4b27-9138-b48a7497282f.png" group-title="FIFA Live", Sumgait FC v Liman UFC | Azerbaijan Women's League 2025/26
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/82/db/b0/77/82dbb077-a3cb-43ab-a497-36191f4f243c.png" group-title="FIFA Live", Bullom Stars FC v SLIFA FC | Leone Rock Premier League 2025-26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d720b256b9a931f8b9ecb10d25836012:48a6a6054db6aad0191cd032a8cb4aea
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_25_10_12_19_7a0402c7-707b-4d10-b7e7-80bb90d37fda/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779799740
+#KODIPROP:inputstream.adaptive.license_key=2e20c052bc363755b323136ffd34b5bb:e8faeee7cf52a2d540929dde4c31d293
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_08_48_42_08b819d5-c041-4ca5-a94c-18560b8a2b92/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779812340
